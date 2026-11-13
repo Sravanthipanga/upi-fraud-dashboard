@@ -6,8 +6,12 @@ Interface) transaction dataset with documented fraud patterns injected, an
 DuckDB SQL investigation queries, and a Streamlit dashboard with a case
 review queue.
 
-**Live demo:** _coming soon — link will be added here once deployed to
-Streamlit Community Cloud._
+**Live demo:** https://upi-fraud-dashboard-3nnx.onrender.com
+_(Hosted on Render's free tier — the service sleeps when idle, so the first
+load can take up to a minute to wake. The same app also runs locally with
+`streamlit run app.py`; a Hugging Face Space mirror is configured at
+https://huggingface.co/spaces/sravanthipanga/upi-fraud-dashboard but is
+currently paused by HF's free-tier CPU quota.)_
 
 <!-- TODO: add screenshots (dashboard KPIs + charts, case review queue) -->
 
