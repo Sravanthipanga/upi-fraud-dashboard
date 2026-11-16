@@ -13,6 +13,8 @@ load can take up to a minute to wake. The same app also runs locally with
 https://huggingface.co/spaces/sravanthipanga/upi-fraud-dashboard but is
 currently paused by HF's free-tier CPU quota.)_
 
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.67-red) ![DuckDB](https://img.shields.io/badge/DuckDB-SQL-yellow) ![pandas](https://img.shields.io/badge/pandas-2.x-150458) ![Plotly](https://img.shields.io/badge/Plotly-charts-3F4F75) ![pytest](https://img.shields.io/badge/pytest-tests-green)
+
 ## Screenshots
 
 ![Dashboard overview](docs/dashboard-overview.png)
